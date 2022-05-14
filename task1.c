@@ -5,7 +5,8 @@
 
 #define N 25 //Count of words to print
 
-int main() {
+int do_task1() {
+    puts("Task1\n\n");
     FILE *fp;
     char stop_words[120][255];
 
